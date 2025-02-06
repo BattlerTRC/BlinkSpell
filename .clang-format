@@ -1,0 +1,6 @@
+---
+Language:        Cpp
+BasedOnStyle:    WebKit
+
+AlignConsecutiveAssignments: Consecutive
+AccessModifierOffset: -2
